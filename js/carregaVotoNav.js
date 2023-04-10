@@ -15,7 +15,7 @@ function carregaVotoNav() {
             nome:
                 "🏆SHOW CHAMPION",
             imagem:
-                "https://static.wikia.nocookie.net/kpop/images/f/fb/Show_Champion_2019_logo.png/revision/latest?cb=20190830025307",
+                "https://pbs.twimg.com/media/EmF1pmcWkAAj73m.png",
             descricao:
                 "Essa votação vai até: 🗓️10/04",
             linkVoto:
