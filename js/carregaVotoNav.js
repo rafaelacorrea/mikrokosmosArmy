@@ -63,7 +63,7 @@ function carregaVotoNav() {
 
         "</p>" +
 
-        '<a href="' +
+        '<a target="_blank" href="' +
         
         biografias[bio].linkVoto +
 
